@@ -23,6 +23,7 @@ This project offers a curated collection of notes and resources covering fundame
 
 ## Problems & Solutions
 - [LeetCode Problem Listing](./leetcode/README.md)
+- [My Mistakes](./leetcode/mistakes.md)
 - [Problem Solving Techniques](./topics/problem-solving.md)
 
 ## Roadmap
